@@ -1,0 +1,45 @@
+body
+{
+    padding: 20px;
+    margin: 20px;
+    font-size: 20px
+}
+thead
+{
+    text-align: center;
+    background: #222;
+    color: #00d8ff
+}
+div
+{
+    margin: 20px auto;
+    width: 80%;
+        padding: 1px 100px;
+}
+button
+{
+        margin: 10px 20px;
+    padding: 5px 20px;
+    border: 2px solid black;
+    background: #222;
+    font-size: 20px;
+    color: #00d8ff;
+    font-weight: bold
+}
+a
+{
+    margin: 10px 20px;
+    padding: 5px 20px;
+    border: 2px solid black;
+    background: #222;
+    font-size: 20px;
+    color: #00d8ff;
+    font-weight: bold;
+        text-decoration: none;
+}
+table,th,td
+{
+        border: 2px solid #222;
+        border-collapse: collapse;
+            padding: 30px;
+}
